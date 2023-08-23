@@ -1,4 +1,4 @@
-package com.javapracticeone;
+package com.javapracticeone.constructor;
 
 public class Fibonacci {
     public static void main(String[] args) {

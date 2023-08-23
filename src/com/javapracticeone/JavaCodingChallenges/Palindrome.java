@@ -1,4 +1,4 @@
-package com.javapracticeone;
+package com.javapracticeone.JavaCodingChallenges;
 
 public class Palindrome {
     public static void main(String[] args) {
